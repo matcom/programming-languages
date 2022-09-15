@@ -9,29 +9,29 @@ Todos los miembros del equipo deben participar en la solución del ejercicio y e
 Implemente una clase `vec` para representar vectores algebraicos en `C++` (con los elementos disponibles en el lenguaje hasta antes de `C++11` `(C++0x)`) que cumpla los siguientes requerimientos:
 
 1. Definir la clase genérica vec en el tipo de escalar y la cantidad de componentes. e.g. `vec<float, 3> , vec<int, 5>`.
-2. Definir constructores para crear a partir de arrays, copia o por defecto.
-3. Definir constructor para crear a partir de un valor replicado a todas las componentes.
-4. La memoria del objeto no puede exceder `sizeof(T) * cantidad_de_componentes`.
-5. Se puede acceder a partir de una función al tamaño del vector. e.g. `vec<float,3> v; ...; v.size(); // devuelve 3`.
-6. Se puede acceder a los componentes de un vector mediante indización. e.g. `v[0] = 4;`.
-7. Se pueden realizar operaciones como + entre vectores de igual tipo y tamaño. e.g. `v1 + v2`.
-8. Para los casos particulares de `vec<T, 2>` y `vec<T, 3>` se debe poder acceder a las componentes mediante campos `x`, `y` y `x`, `y`, `z` respectivamente. e.g. `vec<float, 3> v; ...; v[0] = 5` es equivalente a `v.x = 5`.
-9. Sobrecargar operadores `<<` y `>>` para poder utilizar la clase con la salida estándar.
+1. Definir constructores para crear a partir de arrays, copia o por defecto.
+1. Definir constructor para crear a partir de un valor replicado a todas las componentes.
+1. La memoria del objeto no puede exceder `sizeof(T) * cantidad_de_componentes`.
+1. Se puede acceder a partir de una función al tamaño del vector. e.g. `vec<float,3> v; ...; v.size(); // devuelve 3`.
+1. Se puede acceder a los componentes de un vector mediante indización. e.g. `v[0] = 4;`.
+1. Se pueden realizar operaciones como + entre vectores de igual tipo y tamaño. e.g. `v1 + v2`.
+1. Para los casos particulares de `vec<T, 2>` y `vec<T, 3>` se debe poder acceder a las componentes mediante campos `x`, `y` y `x`, `y`, `z` respectivamente. e.g. `vec<float, 3> v; ...; v[0] = 5` es equivalente a `v.x = 5`.
+1. Sobrecargar operadores `<<` y `>>` para poder utilizar la clase con la salida estándar.
 
 Para ello debe abordar los siguientes puntos.
 
 1. Genericidad en `C++` basada en  templates . Tipos de argumentos.
-2. Definición de arrays en `C++`.
-3. Distintos tipos de constructores en `C++` (defecto y copia).
-    a. ¿Qué hace cada uno de ellos?
-    b. ¿Cuándo se llaman?
-    c. Explicar la inicialización de campos.
-    d. ¿Cómo funciona el paso de parámetros cuando se llama a una función?
-    e. ¿Cuándo se deben utilizar parámetros por valor, por puntero o por referencia?
-    f. Constructores con un solo argumento.
-    g. Constructores `explicit`.
-4. Funciones `inline` y `const`. (Deberá hacer `const` todas las funciones que puedan ser usadas `const`).
-    a. Diferencia entre `const T x;`, `T const x;` y `const T const x;`.
-5. Redefinición de operadores `[]` y `+`. Tipos de traspasos en `C++`.
-6. Especialización de los `templates`.
-7. Tipos union.
+1. Definición de arrays en `C++`.
+1. Distintos tipos de constructores en `C++` (defecto y copia).
+    1. ¿Qué hace cada uno de ellos?
+    1. ¿Cuándo se llaman?
+    1. Explicar la inicialización de campos.
+    1. ¿Cómo funciona el paso de parámetros cuando se llama a una función?
+    1. ¿Cuándo se deben utilizar parámetros por valor, por puntero o por referencia?
+    1. Constructores con un solo argumento.
+    1. Constructores `explicit`.
+1. Funciones `inline` y `const`. (Deberá hacer `const` todas las funciones que puedan ser usadas `const`).
+    1. Diferencia entre `const T x;`, `T const x;` y `const T const x;`.
+1. Redefinición de operadores `[]` y `+`. Tipos de traspasos en `C++`.
+1. Especialización de los `templates`.
+1. Tipos union.

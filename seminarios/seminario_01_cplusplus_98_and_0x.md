@@ -1,4 +1,4 @@
-# Seminario 1 (C++ 98 , C++ 0x)
+# Seminario 1 (C++98, C++0x)
 
 Los requerimientos de cada ejercicio del seminario serán expuestos desde el punto de vista práctico y teórico; es decir, para su exposición, cada equipo se basará en el caso práctico en cuestión para introducir y explicar el elemento teórico requerido. La exposición no es una mera enunciación de código. Preguntas como: _¿Por qué?, ¿Basándose en qué?, ¿Cómo se logra esto en el lenguaje X?_ entre otras, deben hacerse.
 
@@ -6,7 +6,7 @@ Todos los miembros del equipo deben participar en la solución del ejercicio y e
 
 ---
 
-Implemente una clase `vec` para representar vectores algebraicos en `C++` (con los elementos disponibles en el lenguaje hasta antes de `C++ 11` `(C++ 0x)`) que cumpla los siguientes requerimientos:
+Implemente una clase `vec` para representar vectores algebraicos en `C++` (con los elementos disponibles en el lenguaje hasta antes de `C++11` `(C++0x)`) que cumpla los siguientes requerimientos:
 
 1. Definir la clase genérica vec en el tipo de escalar y la cantidad de componentes. e.g. `vec<float, 3> , vec<int, 5>`.
 2. Definir constructores para crear a partir de arrays, copia o por defecto.

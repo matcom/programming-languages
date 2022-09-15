@@ -7,3 +7,4 @@ Repositorio para mantener los recursos como conferencias, seminarios y demás, r
 * [Seminario 1 (C++98, C++0x)](seminarios/seminario_01_cplusplus_98_and_0x.md)
 * [Seminario 2 (C++11, C++14)](seminarios/seminario_02_cplusplus_11_and_14.md)
 * [Seminario 3 (Varianzas, Herencia y Polimorfismo)](seminarios/seminario_03_varianzas_herencia_polimorfismo.md)
+* [Seminario 4 (Golang)](seminarios/seminario_04_golang.md)

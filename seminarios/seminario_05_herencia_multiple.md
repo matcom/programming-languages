@@ -21,8 +21,8 @@ Ilustre cómo podría ser implementado este diseño de clases en lenguajes con h
 1. ¿En qué casos la herencia múltiple puede causar ambigüedad? Ejemplifique.
 1. ¿Cómo podemos solucionar estos casos? Analice y compare las distintas soluciones. ¿Cuál es la solución propuesta en `C#`?
 1. Explique cómo se representan los objetos en memoria. Ponga un ejemplo de:
-    * Un objeto perteneciente a una clase que no herede de ninguna otra
-    * Un objeto perteneciente a una clase que muestre una herencia simple
-    * Un objeto perteneciente a una clase que utilice herencia múltiple
+    1. Un objeto perteneciente a una clase que no herede de ninguna otra
+    1. Un objeto perteneciente a una clase que muestre una herencia simple
+    1. Un objeto perteneciente a una clase que utilice herencia múltiple
 
 > Analizar: Herencia Múltiple en C++ y Python. Visibilidad, Redefinición de miembros, Ocultamiento, Memoria, Polimorfismo, Casteo.

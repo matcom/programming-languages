@@ -4,10 +4,10 @@ Repositorio para mantener los recursos como conferencias, seminarios y demás, r
 
 ## Conferencias
 
-* [Conferencia 1 (Introducción a los LPs)](conferencias\conferencia_01_introduccion_a_los_lps.pptx)
-* [Conferencia 2 (Formas de procesamiento y organizacion de la memoria)](conferencias\conferencia_02_formas_de_procesamiento_y_organizacion_de_la_memoria.pptx)
-* [Conferencia 3.1 (Tipos. Formas de tipado)](conferencias\conferencia_03.1_tipos_formas_de_tipado.pptx)
-* [Conferencia 3.2 (Referencias y valores. Copia e igualdad. Traspaso de parámetros)](conferencias\conferencia_03.2_referencias_y_valores_copia_e_igualdad_traspaso_de_parámetros.pptx)
+* [Conferencia 1 (Introducción a los LPs)](conferencias/conferencia_01_introduccion_a_los_lps.pptx)
+* [Conferencia 2 (Formas de procesamiento y organizacion de la memoria)](conferencias/conferencia_02_formas_de_procesamiento_y_organizacion_de_la_memoria.pptx)
+* [Conferencia 3.1 (Tipos. Formas de tipado)](conferencias/conferencia_03.1_tipos_formas_de_tipado.pptx)
+* [Conferencia 3.2 (Referencias y valores. Copia e igualdad. Traspaso de parámetros)](conferencias/conferencia_03.2_referencias_y_valores_copia_e_igualdad_traspaso_de_parámetros.pptx)
 
 ## Seminarios
 
@@ -16,3 +16,4 @@ Repositorio para mantener los recursos como conferencias, seminarios y demás, r
 * [Seminario 3 (Varianzas, Herencia y Polimorfismo)](seminarios/seminario_03_varianzas_herencia_polimorfismo.md)
 * [Seminario 4 (Golang)](seminarios/seminario_04_golang.md)
 * [Seminario 5 (Herencia Múltiple)](seminarios/seminario_05_herencia_multiple.md)
+* [Seminario 6 (Python Mágico)](seminarios/seminario_06_python_magico)

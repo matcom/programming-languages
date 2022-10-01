@@ -19,4 +19,4 @@ m = Matriz(2, 3) # crea una matriz de int con valor 0s.
 mf = m.as_float() # mf es una matriz de 0s pero de tipo float.
 ```
 
-> Analizar: Resolución de miembros y métodos en `Python`. Métodos mágicos. Iteradores. El builtin `eval`.
+> Analizar: Resolución de miembros y métodos en `Python`. Métodos mágicos. Iteradores. El builtin `eval`. El funcionamiento de `super`.

@@ -16,5 +16,3 @@ Repositorio para mantener los recursos como conferencias, seminarios y demás, r
 * [Seminario 3 (Varianzas, Herencia y Polimorfismo)](seminarios/seminario_03_varianzas_herencia_polimorfismo.md)
 * [Seminario 4 (Golang)](seminarios/seminario_04_golang.md)
 * [Seminario 5 (Herencia Múltiple)](seminarios/seminario_05_herencia_multiple.md)
-
-> [Bibliografía](bibliografia)

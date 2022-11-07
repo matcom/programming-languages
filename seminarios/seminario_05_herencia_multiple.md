@@ -25,4 +25,4 @@ Ilustre cómo podría ser implementado este diseño de clases en lenguajes con h
     1. Un objeto perteneciente a una clase que muestre una herencia simple
     1. Un objeto perteneciente a una clase que utilice herencia múltiple
 
-> Analizar: Herencia Múltiple en C++ y Python. Visibilidad, Redefinición de miembros, Ocultamiento, Memoria, Polimorfismo, Casteo.
+> Analizar: Herencia Múltiple en C++ y Python. Visibilidad, Redefinición de miembros, Ocultamiento, Representación en Memoria, Polimorfismo, Casteo.

@@ -6,7 +6,8 @@ Todos los miembros del equipo deben participar en la solución del ejercicio y e
 
 ---
 
-1. Usando decoradores proponga e implemente un mecanismo de contratos al estilo `CodeContract`. Las precondiciones y postcondiciones se deben poder especificar como en el siguiente ejemplo:
+1. Explique en qué consiste la programación por contratos? Y muestre un ejemplo en `C#` utilizando la biblioteca `CodeContract`.
+2. Usando decoradores proponga e implemente un mecanismo de contratos al estilo `CodeContract`. Las precondiciones y postcondiciones se deben poder especificar como en el siguiente ejemplo:
 
     ```python
     @contract(require=lambda x: x > 0, ensure=lambda result: result > 0)
@@ -59,7 +60,7 @@ Todos los miembros del equipo deben participar en la solución del ejercicio y e
     # print(f8(1))  # True
     ```
 
-2. Implemente en **Python** los siguientes patrones utilizando metaclases:
+3. Implemente en **Python** los siguientes patrones utilizando metaclases:
 
     * `Singleton`: Clase de la que solo se puede crear una instancia, por lo que todos los intentos de instanciación deben resultar en un mismo objeto (el del primer intento).Tenga en cuenta en su implementación que las clases que hereden de esta clase deberán heredar también el comportamiento `Singleton`.
     * Implemente la clase `ObjetoInmutable` en `Python`. Un objeto inmutable, una vez creado, **no podrá ser modificado**. No ser modificado significa que después de su creación no se puede hacer `o.t = valor` ni `del(o.t)`, siendo `o` una instancia de `ObjetoInmutable`. Realice su diseño de forma tal que cualquier clase que herede de `ObjetoInmutable` tenga el mismo comportamiento.

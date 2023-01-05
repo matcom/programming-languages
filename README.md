@@ -27,7 +27,7 @@ Repositorio para mantener los recursos como conferencias, seminarios y demás, r
 * [Seminario 6 (Python Mágico)](seminarios/seminario_06_python_magico.md)
 * [Seminario 7 (Javascript)](seminarios/seminario_07_javascript.md)
 * [Seminario 8 (Dynamic en C#)](seminarios/seminario_08_dynamic_en_csharp.md)
-* [Seminario 9 (Python y la metaprogramación)](seminarios/seminario_9_python_y_la_metaprogramacion.md)
+* [Seminario 9 (Python y la metaprogramación)](seminarios/seminario_09_python_y_la_metaprogramacion.md)
 * [Seminario 10 (C++ y la metaprogramación)](seminarios/seminario_10_cplusplus_y_la_metaprogramacion.md)
 * [Seminario 11 (Concurrencia)](seminarios/seminario_11_concurrencia.md)
 * [Seminario 12 (Garbage Collector)](seminarios/seminario_12_garbage_collector.md)

@@ -14,6 +14,8 @@ Repositorio para mantener los recursos como conferencias, seminarios y demás, r
 * [Conferencia 5.1 (Python)](conferencias/conferencia_05.1_python.pptx) | [Códigos de ejemplo](conferencias/conferencia_05.1_python_code.zip)
 * [Conferencia 5.2 (Python dynamic binding. CSharp late binding)](conferencias/conferencia_05.2_python_dynamic_binding_csharp_late_binding.pptx)
 * [Conferencia 5.3 (Reflection y Dynamic en CSharp)](conferencias/conferencia_05.3_reflection_y_dynamic_en_csharp.pptx) | [Códigos de ejemplo](conferencias/conferencia_05.3_reflection_y_dynamic_en_csharp_code.zip)
+* [Conferencia 5.4 (Python decoradores. Metaprogramación)](conferencias/conferencia_05.4_python_decoradores_metaprogramacion.pptx) | [Códigos de ejemplo](conferencias/conferencia_05.4_python_decoradores_metaprogramacion_code.zip)
+* [Conferencia 6 (Concurrencia)](conferencias/conferencia_06_concurrencia.pptx) | [Códigos de ejemplo](conferencias/conferencia_06_concurrencia_code.zip)
 
 ## Seminarios
 

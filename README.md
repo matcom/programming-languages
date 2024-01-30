@@ -20,7 +20,7 @@ Repositorio para mantener los recursos como conferencias, seminarios y demás, r
 ## Seminarios (Curso 2024)
 
 * [Seminario 1 (C++)](seminarios/seminario_01_cplusplus.md)
-* [Seminario 3 (Herencia y Polimorfismo)](seminarios/seminario_02_herencia.md)
+* [Seminario 2 (Herencia y Polimorfismo)](seminarios/seminario_02_herencia.md)
 * [Seminario 3 (Golang)](seminarios/seminario_03_golang.md)
 * [Seminario 4 (Javascript)](seminarios/seminario_04_javascript.md)
 * [Seminario 5 (Python Mágico)](seminarios/seminario_05_python_magico.md)

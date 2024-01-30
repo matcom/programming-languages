@@ -2,7 +2,7 @@
 
 Repositorio para mantener los recursos como conferencias, seminarios y demás, referentes a la asignatura de `Lenguajes de Programación` de la carrera de `Ciencia de la Computación` de la `Facultad de Matemática y Computación` de la `Universidad de La Habana`.
 
-## Conferencias
+## Conferencias (Curso 2022)
 
 * [Conferencia 1 (Introducción a los LPs)](conferencias/conferencia_01_introduccion_a_los_lps.pptx)
 * [Conferencia 2 (Formas de procesamiento y organizacion de la memoria)](conferencias/conferencia_02_formas_de_procesamiento_y_organizacion_de_la_memoria.pptx)
@@ -17,17 +17,15 @@ Repositorio para mantener los recursos como conferencias, seminarios y demás, r
 * [Conferencia 5.4 (Python decoradores. Metaprogramación)](conferencias/conferencia_05.4_python_decoradores_metaprogramacion.pptx) | [Códigos de ejemplo](conferencias/conferencia_05.4_python_decoradores_metaprogramacion_code.zip)
 * [Conferencia 6 (Concurrencia)](conferencias/conferencia_06_concurrencia.pptx) | [Códigos de ejemplo](conferencias/conferencia_06_concurrencia_code.zip)
 
-## Seminarios
+## Seminarios (Curso 2024)
 
-* [Seminario 1 (C++98, C++0x)](seminarios/seminario_01_cplusplus_98_and_0x.md)
-* [Seminario 2 (C++11, C++14)](seminarios/seminario_02_cplusplus_11_and_14.md)
-* [Seminario 3 (Varianzas, Herencia y Polimorfismo)](seminarios/seminario_03_varianzas_herencia_polimorfismo.md)
-* [Seminario 4 (Golang)](seminarios/seminario_04_golang.md)
-* [Seminario 5 (Herencia Múltiple)](seminarios/seminario_05_herencia_multiple.md)
-* [Seminario 6 (Python Mágico)](seminarios/seminario_06_python_magico.md)
-* [Seminario 7 (Javascript)](seminarios/seminario_07_javascript.md)
-* [Seminario 8 (Dynamic en C#)](seminarios/seminario_08_dynamic_en_csharp.md)
-* [Seminario 9 (Python y la metaprogramación)](seminarios/seminario_09_python_y_la_metaprogramacion.md)
-* [Seminario 10 (C++ y la metaprogramación)](seminarios/seminario_10_cplusplus_y_la_metaprogramacion.md)
-* [Seminario 11 (Concurrencia)](seminarios/seminario_11_concurrencia.md)
-* [Seminario 12 (Garbage Collector)](seminarios/seminario_12_garbage_collector.md)
+* [Seminario 1 (C++)](seminarios/seminario_01_cplusplus.md)
+* [Seminario 3 (Herencia y Polimorfismo)](seminarios/seminario_02_herencia.md)
+* [Seminario 3 (Golang)](seminarios/seminario_03_golang.md)
+* [Seminario 4 (Javascript)](seminarios/seminario_04_javascript.md)
+* [Seminario 5 (Python Mágico)](seminarios/seminario_05_python_magico.md)
+* [Seminario 6 (Dynamic en C#)](seminarios/seminario_06_dynamic_en_csharp.md)
+* [Seminario 7 (Python y la metaprogramación)](seminarios/seminario_07_python_y_la_metaprogramacion.md)
+* [Seminario 8 (C++ y la metaprogramación)](seminarios/seminario_08_cplusplus_y_la_metaprogramacion.md)
+* [Seminario 9 (Concurrencia)](seminarios/seminario_09_concurrencia.md)
+* [Seminario 10 (Garbage Collector)](seminarios/seminario_10_garbage_collector.md)

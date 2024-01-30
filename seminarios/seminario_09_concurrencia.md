@@ -1,4 +1,4 @@
-# Seminario 12 (Garbage Collector)
+# Seminario 9 (Concurrencia)
 
 Los requerimientos de cada ejercicio del seminario serán expuestos desde el punto de vista práctico y teórico; es decir, para su exposición, cada equipo se basará en el caso práctico en cuestión para introducir y explicar el elemento teórico requerido. La exposición no es una mera enunciación de código. Preguntas como: _¿Por qué?, ¿Basándose en qué?, ¿Cómo se logra esto en el lenguaje X?_ entre otras, deben hacerse.
 
@@ -6,8 +6,8 @@ Todos los miembros del equipo deben participar en la solución del ejercicio y e
 
 ---
 
-1. ¿En qué consiste la recolección automática de basura? Contraste contra el manejo manual en C++.
-2. Describa las diferentes estrategias de recolección automática.
-   * ¿Cuáles son las ventajas y desventajas de cada una?
-3. Enumere brevemente las propuestas más comunes en los lenguajes de programación C#, Python, Java, Go y JavaScript.
-4. (Opcional) Explique el manejo de memoria en Rust.
+1. Explique brevemente en qué consiste la concurrencia y el paralelismo.
+2. ¿Qué son los semáforos, monitors, barriers y countdowns? Escoger uno e implementar el resto a partir de ese en C#.
+3. ¿Cuál es la propuesta en Go para la sincronización en la concurrencia?
+4. Implemente la solución a los filósofos utilizando las primitivas propuestas en Go.
+5. Implemente la solución a los filósofos utilizando C# y realice una comparación con la solución propuesta en Go.

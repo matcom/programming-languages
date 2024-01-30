@@ -16,7 +16,9 @@ En la Universidad, una persona (que se identifica por su Nombre) es plantilla si
 
 Los valores de salario y horas clase (tiempo en que se recibe o imparte clases) debe poder ser configurable en cualquier entidad.
 
-Ilustre cómo podría ser implementado este diseño de clases en lenguajes con herencia múltiple como `Python` y `C++`.
+Ilustre cómo podría ser implementado este diseño de clases en lenguajes `C#`, `C++` y `Python`.
+
+1. Diseñe una jerarquía en `C#` que represente/modele los roles anteriores y sus relaciones. Utilice alguna herramienta para ilustrar dicho modelo (Ejemplo: diseñador de clases de Visual Studio)
 
 1. ¿En qué casos la herencia múltiple puede causar ambigüedad? Ejemplifique.
 1. ¿Cómo podemos solucionar estos casos? Analice y compare las distintas soluciones. ¿Cuál es la solución propuesta en `C#`?
@@ -25,4 +27,4 @@ Ilustre cómo podría ser implementado este diseño de clases en lenguajes con h
     1. Un objeto perteneciente a una clase que muestre una herencia simple
     1. Un objeto perteneciente a una clase que utilice herencia múltiple
 
-> Analizar: Herencia Múltiple en C++ y Python. Visibilidad, Redefinición de miembros, Ocultamiento, Representación en Memoria, Polimorfismo, Casteo.
+> Analizar: Herencia Múltiple en C++ y Python. Colisión de interfaces e implementación implicita/explícita en C#. Visibilidad, Redefinición de miembros, Ocultamiento, Representación en Memoria, Polimorfismo, Casteo.

@@ -36,7 +36,7 @@ Todos los miembros del equipo deben participar en la solución del ejercicio y e
     1. Haga una comparación entre composición de tipos y herencia.
     1. Valore ventajas y desventajas de la composición de tipos de `Go` y exprese su preferencia.
 1. ¿Se puede decir que `Go` es un lenguaje que ofrece programación orientada a objetos?
-1. Implemente una jerarquía de clases del seminario de genericidad (Seminario 3) usando `structs` e `interfaces`. Trate de que los métodos sólo reciban tipos nativos o interfaces.
+1. Implemente una jerarquía de clases del seminario de herencia (Seminario 2) usando `structs` e `interfaces`. Trate de que los métodos sólo reciban tipos nativos o interfaces.
     1. ¿Le resultó más cómodo que usar herencia?
     1. ¿Le resulta más seguro?
     1. ¿Le resulta más expresivo?
